@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+    background-image: url('site.png');
+    background-size: cover;
+    background-position: cente top;
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
